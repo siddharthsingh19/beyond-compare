@@ -1,7 +1,7 @@
 import './App.css'
 
 function App() {
-    return <div>Hola</div>;
+    return <div>Beyond Compare</div>;
 }
 
 export default App;
